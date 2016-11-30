@@ -17,11 +17,11 @@ Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM.  2016. Diagnosi
 
 Granderson, J, Bonvini, M, Piette, MA, Lin, G, Hu, RL. 2016. Can We Practically Bring Physics-based Modeling Into Operational Analytics Tools? American Council on an Energy-Efficient Economy: Summer Study on Energy Efficiency in Buildings. Available: http://aceee.org/files/proceedings/2016/data/papers/12_92.pdf#page=1
 
-Hu, RL, Granderson, J, Agogino, A. 2015. Detection of a Chiller Energy Efficiency Fault Using Expectation Maximization. ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Available:http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2483255
+Hu, RL, Granderson, J, Agogino, A. 2015. Detection of a Chiller Energy Efficiency Fault Using Expectation Maximization. ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Available: http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2483255
 
 Skorupski, R, Hu, RL, Entriken, R, Ye, Y. A Benefit-Cost Framework for Optimal Load Shifting. 2014. Advanced Workshop in Regulation and Competition 28th Annual Western Conference. 
 
-Skorupski, R, Hu, RL, Entriken, R, Ye, Y. A Benefit-Cost Framework for Optimal Load Shifting. 2014. CIGRÉ (The Council on Large Electric Systems) US National Committee: Grid of the Future Symposium. 
+Skorupski, R, Hu, RL, Entriken, R, Ye, Y. A Benefit-Cost Framework for Optimal Load Shifting. 2014. CIGRÉ (The Council on Large Electric Systems) US National Committee: Grid of the Future Symposium. Available: http://cigre.wpengine.com/wp-content/uploads/2015/06/A-Benefit-Cost-Framework-for-Optimal-Load-Shifting.pdf
 
 Ing, A, Hu, L, Hyun, S, Kuang, A. 2012. Zero Emissions Medical Shelter. Meeting of the International Society for the Systems Sciences.
 
