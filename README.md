@@ -26,7 +26,6 @@ Skorupski, R, Hu, RL, Entriken, R, Ye, Y. A Benefit-Cost Framework for Optimal L
 Ing, A, Hu, L, Hyun, S, Kuang, A. 2012. Zero Emissions Medical Shelter. Meeting of the International Society for the Systems Sciences.
 
 Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2012. Fundamental analysis methods for heating and cooling systems, from the Energy Information Handbook. HPAC Engineering. 
-PUBLICATIONS (continued)
 
 Granderson, J, Hu, RL, Piette MA, Rosenblum, B. 2012. Making the most of energy data: A handbook for facility managers, owners and operators. American Council on an Energy-Efficient Economy: Summer Study on Energy Efficiency in Buildings. 
 
