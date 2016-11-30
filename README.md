@@ -1,11 +1,11 @@
 # Academic_Papers
 Copies of my peer-reviewed academic papers
 
-Books
+## Books
 
-Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2011. Energy Information Handbook: Applications for efficient building operations. Printed and published by the US Department of Energy, Energy Efficiency and Renewable Energy, Building Technologies Program. Available online at: http://eis.lbl.gov/
+Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2011. Energy Information Handbook: Applications for efficient building operations. Printed and published by the US Department of Energy, Energy Efficiency and Renewable Energy, Building Technologies Program. Available hardcopy at: https://amzn.com/1480178276 and online at: http://eis.lbl.gov/
 
-Peer-Reviewed Papers
+## Peer-Reviewed Papers
 
 Hu, RL, Leahy, K, Konstantakopoulos, IC, Auslander, DM, Spanos, C, Agogino, AM.  2016. Application Domain Knowledge Features for Diagnostics in Wind Turbines. IEEE International Conference on Machine Learning and Applications. 
 
