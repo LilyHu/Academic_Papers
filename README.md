@@ -7,15 +7,15 @@ Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2011. Energy Information Handbook
 
 ## Peer-Reviewed Papers
 
-Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. NIPS Workshop. (<a href=https://arxiv.org/abs/1712.07639>PDF</a>) 
+Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. NIPS Workshop. <a href=https://arxiv.org/abs/1712.07639>PDF</a>)
 
-Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM, O'Sullivan, DTJ. 2017. Diagnosing and Predicting Wind Turbine Faults Using Machine Learning Techniques Applied to SCADA Data. International Journal of Prognostics and Health Management. href='Diagnosing_and_Predicting_Wind_Turbine_Faults_from_SCADA_Data.pdf'>PDF</a>) 
+Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM, O'Sullivan, DTJ. 2017. Diagnosing and Predicting Wind Turbine Faults Using Machine Learning Techniques Applied to SCADA Data. International Journal of Prognostics and Health Management. <a href='Diagnosing_and_Predicting_Wind_Turbine_Faults_from_SCADA_Data.pdf'>PDF</a>
 
-Hu, RL, Skorupski, R, Entriken, R, Ye, Y. 2017. A Mathematical Programming Formulation for Optimal Load Shifting of Electricity Demand for the Smart Grid. IEEE Transactions on Big Data: Big Data for Cyber-Physical Systems. (<a href='A_Mathematical_Programming_Formulation_for_the_Smart_Grid.pdf'>PDF</a>)
+Hu, RL, Skorupski, R, Entriken, R, Ye, Y. 2017. A Mathematical Programming Formulation for Optimal Load Shifting of Electricity Demand for the Smart Grid. IEEE Transactions on Big Data: Big Data for Cyber-Physical Systems. <a href='A_Mathematical_Programming_Formulation_for_the_Smart_Grid.pdf'>PDF</a>
 
-Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM.  2016. Diagnosing and Predicting Wind Turbine Faults Using Machine Learning Techniques Applied to SCADA Data. IEEE Sustainable Energy (Submitted). (<a href="Predicting_Wind_Turbine_Faults_Using_Machine_Learning.pdf">PDF</a>)
+Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM.  2016. Diagnosing and Predicting Wind Turbine Faults Using Machine Learning Techniques Applied to SCADA Data. IEEE Sustainable Energy (Submitted). <a href="Predicting_Wind_Turbine_Faults_Using_Machine_Learning.pdf">PDF</a>
 
-Hu, RL, Leahy, K, Konstantakopoulos, IC, Auslander, DM, Spanos, C, Agogino, AM.  2016. Application Domain Knowledge Features for Diagnostics in Wind Turbines. IEEE International Conference on Machine Learning and Applications. (<a href='Using_Domain_Features_for_Wind_Turbine_Diagnostics.pdf'>PDF</a>)
+Hu, RL, Leahy, K, Konstantakopoulos, IC, Auslander, DM, Spanos, C, Agogino, AM.  2016. Application Domain Knowledge Features for Diagnostics in Wind Turbines. IEEE International Conference on Machine Learning and Applications. <a href='Using_Domain_Features_for_Wind_Turbine_Diagnostics.pdf'>PDF</a>
 
 Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM.  2016. Diagnosing Wind Turbine Faults Using Machine Learning Techniques Applied to Operational Data. IEEE Reliability Society: IEEE International Conference on Prognostics and Health Management. Available: http://ieeexplore.ieee.org/document/7542860/
 
