@@ -7,7 +7,7 @@ Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2011. Energy Information Handbook
 
 ## Peer-Reviewed Papers
 
-Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. NIPS Workshop.
+Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. NIPS Workshop. Available: https://arxiv.org/abs/1712.07639
 
 Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM, O'Sullivan, DTJ. 2017. Diagnosing and Predicting Wind Turbine Faults Using Machine Learning Techniques Applied to SCADA Data. International Journal of Prognostics and Health Management.
 
