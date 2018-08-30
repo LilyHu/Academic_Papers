@@ -9,7 +9,7 @@ Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2011. Energy Information Handbook
 
 Hu,  RL,  Xiong,  C.,  Socher,  R.  2019.  Zero-Shot  Learning  Using  NaturalLanguage  Descriptions  for  Fine-Grained  Image  Classification.  IEEE  Computer  Vision  and  Pattern  Recognition  (ICLR)  (In  preparation)  
 
-Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. NIPS Workshop. <a href=https://arxiv.org/abs/1712.07639>PDF</a>)
+Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. NIPS Workshop. <a href=https://arxiv.org/abs/1712.07639>PDF</a>
 
 Hu, RL, Granderson, JG, Auslander, DM, Agogino, AM. 2018. Machine Learning for the Design and System Configuration of Machine Health Monitoring Systems. Applied Energy (Under Review)
 
