@@ -1,21 +1,19 @@
 # Academic_Papers
 Copies of my academic papers
 
-## Books
+## Journal Papers
 
-Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2011. Energy Information Handbook: Applications for efficient building operations. Printed and published by the US Department of Energy, Energy Efficiency and Renewable Energy, Building Technologies Program. Available hardcopy at: https://amzn.com/1480178276 and online at: http://eis.lbl.gov/
+Hu, RL, Granderson, JG, Auslander, DM, Agogino, AM. 2018. Machine Learning for Automated Sensor Selection for Energy Fault Detection. Applied Energy.
 
-## Peer-Reviewed Papers
-
-Hu,  RL,  Xiong,  C.,  Socher,  R.  2019.  Zero-Shot  Learning  Using  NaturalLanguage  Descriptions  for  Fine-Grained  Image  Classification.  IEEE  Computer  Vision  and  Pattern  Recognition  (ICLR)  (In  preparation)  
-
-Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. NIPS Workshop. <a href=https://arxiv.org/abs/1712.07639>PDF</a>
-
-Hu, RL, Granderson, JG, Auslander, DM, Agogino, AM. 2018. Machine Learning for the Design and System Configuration of Machine Health Monitoring Systems. Applied Energy (Under Review)
-
-Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM, O'Sullivan, DTJ. 2017. Diagnosing and Predicting Wind Turbine Faults Using Machine Learning Techniques Applied to SCADA Data. International Journal of Prognostics and Health Management. <a href='Diagnosing_and_Predicting_Wind_Turbine_Faults_from_SCADA_Data.pdf'>PDF</a>
+Leahy, K, Hu, RL, Konstantakopoulos, IC, Spanos, C, Agogino, AM, O'Sullivan, DTJ. 2018. Diagnosing and Predicting Wind Turbine Faults Using Machine Learning Techniques Applied to SCADA Data. International Journal of Prognostics and Health Management. <a href='Diagnosing_and_Predicting_Wind_Turbine_Faults_from_SCADA_Data.pdf'>PDF</a>
 
 Hu, RL, Skorupski, R, Entriken, R, Ye, Y. 2017. A Mathematical Programming Formulation for Optimal Load Shifting of Electricity Demand for the Smart Grid. IEEE Transactions on Big Data: Big Data for Cyber-Physical Systems. <a href='A_Mathematical_Programming_Formulation_for_the_Smart_Grid.pdf'>PDF</a>
+
+## Peer-Reviewed Conference and Workshop Papers
+
+Hu,  RL,  Xiong,  C.,  Socher,  R.  2018.  Zero-Shot Image Classification Guided by Natural Language Descriptions of Classes.  Neural Information Processing Systems Visually Grounded Interaction and Language Workshop. 
+
+Hu, RL, Karnowski, J, Fadely, R, Pommier, JP. 2017. Image Segmentation to Distinguish Between Overlapping Human Chromosomes. Neural Information Processing Systems Machine Learning for Health Workshop. <a href=https://arxiv.org/abs/1712.07639>PDF</a>
 
 Hu, RL, Leahy, K, Konstantakopoulos, IC, Auslander, DM, Spanos, C, Agogino, AM.  2016. Application Domain Knowledge Features for Diagnostics in Wind Turbines. IEEE International Conference on Machine Learning and Applications. <a href='Using_Domain_Features_for_Wind_Turbine_Diagnostics.pdf'>PDF</a>
 
@@ -36,3 +34,8 @@ Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2012. Fundamental analysis method
 Granderson, J, Hu, RL, Piette MA, Rosenblum, B. 2012. Making the most of energy data: A handbook for facility managers, owners and operators. American Council on an Energy-Efficient Economy: Summer Study on Energy Efficiency in Buildings. Available: http://aceee.org/files/proceedings/2012/data/papers/0193-000079.pdf
 
 de Barros, AG, Hu, L, Tay, R. 2011. Influence of geographic location and local demand on the attractiveness of airports to transfer traffic. Air Transport Research Society World Conference. 
+
+## Books
+
+Granderson, J, Piette MA, Rosenblum, B, Hu, L. 2011. Energy Information Handbook: Applications for efficient building operations. Printed and published by the US Department of Energy, Energy Efficiency and Renewable Energy, Building Technologies Program. Available hardcopy at: https://amzn.com/1480178276 and online at: http://eis.lbl.gov/
+
